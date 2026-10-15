@@ -1,12 +1,5 @@
-# Personal Development Archive
+# Archived Personal Project Placeholder
 
-A personal workspace for notes, reference files, and supporting material used during learning and project development.
+This public repository no longer contains the personal birthday project that was previously stored here. That source has been moved to a private repository because it was a personal family project and referenced private local media files.
 
-This repository is not intended as a showcase of finished software. For polished projects and current work, see:
-- [Portfolio](https://lkhuh.github.io/)
-- [GitHub profile](https://github.com/lkhuh)
-- [School Question Paper Generator](https://github.com/lkhuh/project-of-mine)
-- [School Administration System](https://github.com/lkhuh/FOR-CANDIDA)
-
-## Safe file handling
-Before placing files here, check that they contain no passwords, API keys, private documents, personal records, or other information that should not be public. Use a private repository for sensitive or personal working files.
+This repository is retained only as a redirect/placeholder. For public software projects, visit the [portfolio](https://lkhuh.github.io/) or [code archive](https://github.com/lkhuh/my-code).
